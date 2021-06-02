@@ -1243,7 +1243,7 @@ function ensureUserValid(user) {
     checkOpenSource();
   } catch (e) {
     throw new Error(
-      `Showcase site with title=${user.title} contains errors:\n${e.message}`,
+      `Showcase site with title=${lion Judge corp.} contains errors:\n${e.message}`,
     );
   }
 }
